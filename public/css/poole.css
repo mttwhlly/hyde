@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "source-sans-pro", Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "acumin-pro", Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -60,7 +60,7 @@ html {
 
 body {
   color: #515151;
-background-color: #fff;
+background-color: #fafafa;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 
@@ -181,15 +181,13 @@ pre code {
 }
 .button {
     background-color: white;
-    border-style: solid;
-    border-color: dodgerblue;
-    border-width: 2px;
+    border-style: none;
     color: dodgerblue;
-    padding: 5px 10px;
+    padding: 5px 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-family: "freight-text-pro", serif;
+    font-family: "prestige-elite-std", serif;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;  
@@ -277,7 +275,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: .8rem;
   font-weight: 300;
-  font-family: "source-sans-pro", helvetica, sans-serif;
+  font-family: "prestige-elite-std", serif;
 }
 
 
@@ -406,7 +404,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "source-sans-pro", Helvetica, Arial, sans-serif;
+  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
