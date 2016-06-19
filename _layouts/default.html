@@ -10,6 +10,51 @@
     <div class="content container">
       {{ content }}
     </div>
+        <div class="foot">&copy; {{ site.time | date: '%Y' }}. All 👉's reserved.</div>
 
-  </body>
+
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+    <script>
+  function getRandomColors(){
+  var randcolors = [];
+  for(var i=0; i<3; i ++)
+  {
+    randcolors.push(Math.ceil(Math.random()*255));
+  }
+  return randcolors;
+}
+
+function changeBodyBackgroundColor() {
+  var colors = getRandomColors();
+  var backgroundcolor = "rgba("+colors[0]+","+colors[1]+","+colors[2]+",.6"+")";
+  $(".sidebar").css("background-color", backgroundcolor);
+}
+
+setInterval(function(){
+  changeBodyBackgroundColor();
+},3000)
+    </script>
+     <script>
+     function catgif(target) {
+  var unescapeHTML = function(escaped) {
+    return $('<textarea/>').html(escaped).text();
+  };
+
+  $.get("https://www.reddit.com/r/stoppedworking.json")
+    .then(function(body) {
+      var posts = body.data.children.map(function(obj) {
+        return obj.data;
+      }).filter(function(post) {
+        return post.score > 20 && post.media && post.media.oembed
+      });
+      var random = Math.floor(Math.random() * posts.length)
+      var post = posts[random]
+      $(target).html(unescapeHTML(post.media.oembed.html));
+    });
+}
+
+catgif('#catgif');
+      </script>
+      </body>
 </html>
