@@ -87,7 +87,6 @@ html {
   color: #333;
   margin-top: 0;
   font-family: "acumin-pro", sans-serif;
-  font-size: 1.6rem;
   letter-spacing: -1px;
 }
 
@@ -137,7 +136,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    padding-top: 8.5rem;
+    padding-top: 8.9rem;
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
