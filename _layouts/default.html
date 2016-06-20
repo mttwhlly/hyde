@@ -6,7 +6,9 @@
   <body>
 
     {% include sidebar.html %}
-
+<div id="note">
+        THIS IS A HARD HAT AREA: Watch out for falling pixels. This site should be fully done soon...please come back! <a id="close">[close]</a>
+    </div>
     <div class="content container">
       {{ content }}
     </div>
@@ -56,5 +58,13 @@ setInterval(function(){
 
 catgif('#catgif');
       </script>
+       
+        <script>
+   close = document.getElementById("close");
+   close.addEventListener('click', function() {
+     note = document.getElementById("note");
+     note.style.display = 'none';
+   }, false);
+  </script>
       </body>
 </html>
