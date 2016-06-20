@@ -1,3 +1,8 @@
+#catgif iframe{
+    width: 100% !important;
+    background-color: #ffffff;
+}
+
 .foot {
     display: block;
     margin-left: 40px;
@@ -11,7 +16,7 @@
         top: 0;
         left: 0;
         right: 0;
-        background: #f1c40f;
+        background-color: rgba(255,255,0,0.6);
         text-align: center;
         line-height: 2.5;
         overflow: hidden; 
@@ -29,11 +34,10 @@
     #close {
       position: absolute;
       right: 10px;
-      top: 9px;
-      text-indent: -9999px;
-      background: url(images/close.png);
+     /* text-indent: -9999px;
+      background-image: url(../close.png);
       height: 16px;
-      width: 16px;
+      width: 16px;*/
       cursor: pointer;
     }
     .cssanimations.csstransforms #close {

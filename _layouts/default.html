@@ -6,8 +6,7 @@
   <body>
 
     {% include sidebar.html %}
-<div id="note">
-        THIS IS A HARD HAT AREA: Watch out for falling pixels. This site should be fully done soon...please come back! <a id="close">[close]</a>
+<div id="note">SITE UNDER CONSTRUCTION ⚠️ WATCH OUT FOR FALLING PIXELS<a id="close">[close]</a>
     </div>
     <div class="content container">
       {{ content }}
@@ -17,6 +16,7 @@
 
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
+    
     <script>
   function getRandomColors(){
   var randcolors = [];
@@ -57,9 +57,22 @@ setInterval(function(){
 }
 
 catgif('#catgif');
+         
+      </script>
+      
+       <script>
+      document.getElementById('catgif').style.width = '100%';
       </script>
        
         <script>
+   close = document.getElementById("close");
+   close.addEventListener('click', function() {
+     note = document.getElementById("note");
+     note.style.display = 'none';
+   }, false);
+  </script>
+     
+       <script>
    close = document.getElementById("close");
    close.addEventListener('click', function() {
      note = document.getElementById("note");
