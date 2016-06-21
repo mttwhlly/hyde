@@ -52,3 +52,66 @@
         0%, 100% { -moz-transform: translateY(-50px); }
         10%, 90% { -moz-transform: translateY(0px); }
     }
+
+/*contact form styles*/
+textarea {
+	resize: none;
+}
+.form-label {
+	font-size: 18px;
+	color: #aaa;
+	margin-top: 20px;
+    margin-bottom: 10px;
+	display: block;
+	opacity: 1;
+	-webkit-transition: .333s ease top, .333s ease opacity;
+	transition: .333s ease top, .333s ease opacity;
+}
+.form-control {
+    background-color: #f7f7f7;
+    width: 100%;
+    letter-spacing: -1px;
+    color: #333;
+    font-size: 28px;
+	border-radius: 0;
+	border-color: #ccc;
+   	border-width: 0 0 2px 0;
+   	border-style: none none solid none;
+   	box-shadow: none;
+}
+.form-control:focus {
+	box-shadow: none;
+	border-color: #1a1a1a;
+}
+.js-hide-label {
+	opacity: 0; 	
+}
+.js-unhighlight-label {
+	color: #999;
+}
+.btn-start-order {
+	background: 0 0 #f7f7f7;
+    border: 2px solid dodgerblue;
+    border-radius: 3px;
+    color: dodgerblue;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: inherit;
+    margin: 70px 0;
+    padding: 15px 60px 12px 60px;
+    text-transform: uppercase;
+    transition: all 0.25s ease 0s;
+        cursor: pointer;
+}
+.btn-start-order:hover,.btn-start-order:active, .btn-start-order:focus {
+	border-color: dodgerblue;
+    background-color: dodgerblue;
+	color: #fff;
+}
+.select-style {
+
+}
+
+.form-button {
+    text-align: center;
+}

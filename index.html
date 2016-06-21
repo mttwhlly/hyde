@@ -2,33 +2,26 @@
 layout: default
 title: Home
 ---
+<p>
+I wish I could offer you a ☕️ & a freshly-baked 🍩 to show you how happy I am that you're here but since the internet can't do that *(yet?)* here's a nifty GIF I found that I hope makes you smile 😃</p>
 
-<div class="posts">
-{% for post in paginator.posts %}
-    {% if post.layout != 'no-title-post' %}
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    {% endif %}
+<div id="catgif"></div>
 
-    <div class="postContent">
-    {{ post.content }}
-    </div>
-{% endfor %}
-</div>
-<!--
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-  -->
-</div>
+<p>I enjoyed that but if you didn't care for it, maybe <button class="button" onclick="catgif('#catgif')"> another one </button> will do the trick?</p>  
+
+
+<p>Did I just see you smile? 🎉</p>     
+
+
+<p>Okay, now seriously...since you've stayed with me this far (which I really appreciate 😊), would you happen to be...</p>
+
+
+<p><a href="/form">Looking to build, improve or maintain a website</a> 💻   </p>
+
+
+<p><a href="http://dribbble.com/mttwhlly" target="_blank">Interested in seeing some things I've worked on</a> 👀</p>
+
+
+<p><a href="#">A fellow designer/developer looking to connect</a> 💬</p>
+
+<p><a href="#">Just plain lost</a> 👽</p>
