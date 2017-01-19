@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {% include head.html %}
 
-  <body>
+  <body class="post__body">
     <div class="container">
       <div class="post">
         <div class="bio__header">
@@ -13,17 +13,17 @@
 
         <div class="post__meta">
           <div class="post__title">{{ page.title }}</div>
-          <div class="post__date">
+           <!--<div class="post__date">
             {% if site.date_format %}
               {{ page.date | date: site.date_format }}
             {% else %}
               {{ page.date | date: "%b %-d, %Y" }}
             {% endif %}
           </div>
-          <div class="post__cat">{{ page.category }}</div>
+          <div class="post__cat">{{ page.category }}</div>-->
         </div>
 
-        <div class="post__body">
+        <div class="post__bodybg">
           {{ content }}
         </div>
 

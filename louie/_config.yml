@@ -1,21 +1,21 @@
 # site
-title: Louie
+title: Matt Whalley ╱ UX Designer
 baseurl: "/louie"
-url: "http://lillian-chen.com"
+url: "http://mattwhalley.com"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
 
 # bio
-header: Louie
+header: Matt Whalley ╱ UX Designer
 desc: >
-  A Jekyll theme (that looks awesome). Louie is free, lightweight,
-  and customizable as a blog, archive, or portfolio.
+  “Indifference towards people and the reality in which they live is actually the one and only cardinal sin in design.” ―Dieter&nbsp;Rams
+   
 
 # posts
 date_format: "%Y"
-post_title: Story
-post_date: Year
-post_cat: Genre
+post_title: <u>A FEW THINGS I'VE WORKED ON</u>
+post_date: CLIENT
+post_cat: DISCIPLINE
 
 # post detail
 prev-next: true

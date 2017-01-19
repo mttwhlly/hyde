@@ -1,8 +1,81 @@
+/* COLORS */
+
+//.green{
+  //background-color: #fff;
+//}-->
+.green img{
+   mix-blend-mode: multiply;
+  -webkit-filter: grayscale(100%) contrast(1.2);
+  filter: grayscale(100%) contrast(1);
+}
+.green::after{
+  background-color: #00ff37;
+  mix-blend-mode: lighten;
+}
+.column {
+  margin: 2%;
+  flex: 1 1 0;
+  position: relative;
+  padding: 1rem;
+  min-height: 33vh;
+  overflow: hidden;
+  //box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  transition: all ease-in-out .3s;
+  min-width: calc(33.33% / 2);
+}
+.column img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: all ease-in-out .5s;
+}
+/* Color Overlay position */
+.column::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    transition: all ease-in-out .5s;
+}
+/* Removed effects to show original on hover */
+.column:hover::after, .column:hover, .column:hover img{
+  filter: none;
+  -webkit-filter: none;
+  mix-blend-mode: unset !important;
+  background: transparent;
+}
+
+
+.intro__p {
+    //margin-top: 100px;
+    //margin-bottom: 90px;
+    //background-color: rgba(255,255,255,0.6);
+    //padding: 4px;
+        font-family: "freight-text-pro", serif;
+    font-style: italic;
+    font-size: $font__size * 2;
+}
+ol {
+    list-style-type: decimal-leading-zero;
+    font-family: $maison;
+}
+
+ul {
+    list-style-type: circle;
+}
+.post__bodybg {  
+  margin-bottom: 20px;
+  border-bottom: 1px solid $color__black;
+}
 .post__meta {
   margin: 30px 0 20px;
   border-bottom: 1px solid $color__black;
   overflow: hidden;
   font-weight: 700;
+  text-decoration: underline;
 }
 
 .post__paginate {
@@ -25,7 +98,7 @@ $paginate-padding: 13px;
     position: absolute;
     top: 0;
     left: 0;
-    content: "\21FD";
+    content: "‹";
   }
 }
 
@@ -38,12 +111,19 @@ $paginate-padding: 13px;
     position: absolute;
     top: 0;
     right: 0;
-    content: "\21FE";
+    content: "›";
   }
 }
 
 .post__title {
   @extend .row__title;
+  font-family: $maisoni;
+  width: 100%;
+  font-size: $font__size * 2.5;
+  letter-spacing: -1px;
+}
+.okshadow {
+  
 }
 
 .post__date {
@@ -55,14 +135,27 @@ $paginate-padding: 13px;
 }
 
 .post__body {
-  padding-bottom: 20px;
-  border-bottom: 1px solid $color__black;
+  background-color: $color__white;
+  margin-bottom: 20px;
 }
 
 // media queries
+
+@include media-query($on-palm) {
+    .info {
+    //max-width: 800px;
+    width: 100%;
+}
+}
+
 @include media-query($on-laptop) {
   .post {
     min-width: 500px;
-    width: 50%;
+    width: 60%;
   }
+    
+  .info {
+    max-width: 800px;
+    width: 60%;
+}
 }

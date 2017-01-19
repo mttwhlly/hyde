@@ -10,8 +10,8 @@
 .row__img {
   display: none;
   position: absolute;
-  max-width: 500px;
-  max-height: 500px;
+  max-width: 600px;
+  max-height: 600px;
   top: random(250) - random(250) + px;
   left: random(500) + px;
   z-index: -1;
@@ -43,6 +43,8 @@
 
 .row__title {
   width: 100%;
+  margin-bottom: 40px;
+  text-transform: uppercase;
 }
 
 .row__date,
@@ -51,12 +53,14 @@
 }
 
 .row__cat {
-  position: relative;
-  margin-left: 10px;
+  //position: relative;
+  width: auto;
+  text-align: right;
+  //margin-left: 10px;
 
   &:before {
     position: absolute;
-    content: '|';
+    content: ' ';
     left: -9px;
   }
 }
@@ -67,7 +71,7 @@
 
 // behaviors
 .row__active {
-  text-decoration: line-through;
+  //text-decoration: line-through;
 }
 
 // media queries
@@ -75,12 +79,13 @@
   .row__post {
       &:hover {
       * {
-        text-decoration: underline;
+        //text-decoration: underline;
         cursor: pointer;
       }
 
       .row__active {
-        text-decoration: line-through;
+        //text-decoration: line-through;
+        font-family: $camcorder2;
       }
 
       .row__img {
@@ -90,22 +95,22 @@
     }
 
     &:nth-child(2n) .row__img {
-      top: random(250) - random(250) + px;
+      top: random(450) - random(250) + px;
       left: random(500) + px;
     }
 
     &:nth-child(3n) .row__img {
-      top: random(250) - random(250) + px;
+      top: random(450) - random(250) + px;
       left: random(500) + px;
     }
 
     &:nth-child(4n) .row__img {
-      top: random(250) - random(250) + px;
+      top: random(450) - random(250) + px;
       left: random(500) + px;
     }
 
     &:nth-child(5n) .row__img {
-      top: random(250) - random(250) + px;
+      top: random(450) - random(250) + px;
       left: random(500) + px;
     }
   }
@@ -118,7 +123,7 @@
   }
 
   .row__title {
-    width: 50%;
+    width: 100%;
   }
 
   .row__date,
