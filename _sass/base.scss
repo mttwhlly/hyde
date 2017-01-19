@@ -1,0 +1,186 @@
+// Our variables
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+
+@font-face {
+	font-family: 'camcorder_inv';
+	src: url('../assets/fonts/camcorder_inv-webfont.eot');
+	src: url('../assets/fonts/camcorder_inv-webfont.eot?#iefix') format('embedded-opentype'),
+		url('../assets/fonts/camcorder_inv-webfont.woff') format('woff'),
+		url('../assets/fonts/camcorder_inv-webfont.ttf') format('truetype'),
+		url('../assets/fonts/camcorder_inv-webfont.svg#camcorder_inv') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'camcorder_reg';
+	src: url('../assets/fonts/camcorder_reg-webfont.eot');
+	src: url('../assets/fonts/camcorder_reg-webfont.eot?#iefix') format('embedded-opentype'),
+		url('../assets/fonts/camcorder_reg-webfont.woff') format('woff'),
+		url('../assets/fonts/camcorder_reg-webfont.ttf') format('truetype'),
+		url('../assets/fonts/camcorder_reg-webfont.svg#camcorder_reg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'maison_neuebook';
+    src: url('../assets/fonts/maisonneue-book-webfont.woff2') format('woff2'),
+         url('../assets/fonts/maisonneue-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'maison_neuemono_italic';
+    src: url('../assets/fonts/maisonneue-monoitalic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/maisonneue-monoitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'maison_neuebold';
+    src: url('../assets/fonts/maisonneue-bold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/maisonneue-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'maison_neuelight';
+    src: url('../assets/fonts/maisonneue-light-webfont.woff2') format('woff2'),
+         url('../assets/fonts/maisonneue-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+$on-palm:           600px !default;
+$on-laptop:         800px !default;
+
+// typography
+$maisoni:           'maison_neuebold', 'Inconsolata', monospace;
+$maison:            'maison_neuelight', 'Inconsolata', monospace;
+$camcorder:         'camcorder_inv', 'Inconsolata', monospace;
+$camcorder2:        'camcorder_reg', 'Inconsolata', monospace;
+$inconsolata:       'Inconsolata', monospace;
+$font__size:        13px;
+//$font__weight:      400;
+$font__line-height: 1.5;
+
+// colors
+$color__black:      #000000;
+$color__gray:       #333333;
+$color__beige:      #f8f8f1;
+$color__yellow:     #fefeca;
+$color__white:      rgba(255,255,255,0.3);
+$color__green:      rgba(0,255,55,1);
+$color__mint:       rgba(200,255,236,0.6);
+
+@mixin media-query($device) {
+  @media screen and (min-width: $device) {
+    @content;
+  }
+}
+
+// elements
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: $color__white;
+}
+
+::-moz-selection {
+  background: $color__white;
+}
+
+hr {
+  color: $color__black;
+  background-color: $color__black;
+}
+
+a {
+  // display: block;
+  // width: 100%;
+  // height: 100%;
+  font-family: $camcorder2;
+  color: $color__green;
+  font-size: $font__size * 1.5;
+  text-decoration: none;
+  letter-spacing: 1px;
+
+  &:hover {
+    font-family: $camcorder;
+  }
+  /*
+  [data-url]::after {
+  content: "↪ " attr(data-url);
+  position: absolute;
+  top: -14px;
+  left: 0px;
+  font-size: 8px;
+  white-space: nowrap;
+  opacity: 0.4;
+  font-family: $maisoni;
+  }*/
+}
+
+// layout
+html {
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+body {
+  width: 100%;
+  margin: 25px 0;
+  padding: 0;
+  background: $color__mint;
+  font-family: $maison;
+  font-size: $font__size * 1.5;
+  //font-weight: $font__weight;
+  line-height: $font__line-height;
+  //text-shadow: 0 0 1.5px rgba(0,255,50,0.5);
+  letter-spacing: -.75px;
+  color: $color__gray;
+  /* multiple bg images */
+  background-image: url(../assets/images/ruler.png), url(../assets/images/bg-dots.png);
+  background-repeat: no-repeat, repeat;
+  //background-attachment: fixed;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 25px;
+}
+
+// media queries
+@include media-query($on-palm) {
+  body {
+    margin: 50px 0 25px;
+  }
+
+  .container {
+    margin: 0 50px;
+  }
+}
+
+@include media-query($on-laptop) {
+  body {
+    margin: 120px 0 50px;
+  }
+
+  .container {
+    margin: 0 120px;
+  }
+}
+img {
+    width: 100%;
+    max-width: 800px;
+}

@@ -1,0 +1,28 @@
+# site
+title: Matt Whalley ╱ UX Designer
+baseurl: "/louie"
+url: "http://mattwhalley.com"
+favicon: "/assets/sample/ico.png"
+g_analytics: UA-12345678-1
+
+# bio
+header: Matt Whalley ╱ UX Designer
+desc: >
+  “Indifference towards people and the reality in which they live is actually the one and only cardinal sin in design.” ―Dieter&nbsp;Rams
+   
+
+# posts
+date_format: "%Y"
+post_title: <u>A FEW THINGS I'VE WORKED ON</u>
+post_date: CLIENT
+post_cat: DISCIPLINE
+
+# post detail
+prev-next: true
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock
