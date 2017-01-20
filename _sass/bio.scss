@@ -1,7 +1,7 @@
 .bio {
   max-width: 800px;
-  margin-bottom: 100px;
-  margin-top: 100px;
+  margin-bottom: 10px;
+  margin-top: 90px;
 }
 
 .bio__header {
@@ -26,13 +26,13 @@
 
 .bio__desc {
     display: inline-block;
-    margin-top: 100px;
+    margin-top: 63px;
     margin-bottom: 30px;
     background-color: rgba(255,255,255,0.6);
     padding: 17px 34px 26px 34px;
     font-family: "freight-text-pro", serif;
     font-style: italic;
-    font-size: $font__size * 2.25;
+    font-size: 2em;
     font-kerning: auto;
     //letter-spacing: -2px;
     //-webkit-box-shadow: 0px 4px 78px -15px rgba(0,0,0,0.5);

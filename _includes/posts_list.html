@@ -28,7 +28,7 @@
       <li class="row__post">
         <a href="{{ site.url }}{{ post.url | relative_url }}"> 
           <div class="row__title larger_a {% if include.uid == post.id %}row__active{% endif %}">
-            › {{ post.title }}
+             {{ post.title }} ›
           </div>
           <!--
           <div class="row__date {% if include.uid == post.id %}row__active{% endif %}">
@@ -69,7 +69,7 @@ Adobe, Monotype / Fonts.com, Broward Cultural Division, ArtsCalendar.com, 50 Sta
    <h2><b>HOW YOU CAN REACH ME</b></h2>
     <ul class="bio__social">
       {% for item in site.data.social %}
-        <li><a href="{{ item.url }}" data-url="{{ item.url }}" target="_blank">&#155; {{ item.title }}</a></li>
+        <li><a href="{{ item.url }}" data-url="{{ item.url }}" target="_blank"> {{ item.title }} &#155;</a></li>
       {% endfor %}
     </ul>
   {% endif %}

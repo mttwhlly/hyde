@@ -74,11 +74,12 @@ ul {
   border-bottom: 1px solid $color__black;
 }
 .post__meta {
-  margin: 30px 0 20px;
+  margin: 50px 0 20px;
   border-bottom: 1px solid $color__black;
   overflow: hidden;
   font-weight: 700;
   text-decoration: underline;
+  padding-bottom: 20px;
 }
 
 .post__paginate {
@@ -156,6 +157,11 @@ $paginate-padding: 13px;
   .post {
     min-width: 500px;
     width: 60%;
+    margin-top: 73px;
+        &:hover {
+    //font-family: $camcorder;
+    //border-bottom: 1px solid $color__mint;
+  }
   }
     
   .info {
