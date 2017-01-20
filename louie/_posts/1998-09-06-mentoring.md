@@ -17,4 +17,4 @@ img: http://mttwhlly.github.io/louie/assets/images/workshop.png
 
 ¶ More than any design I create, I hope to have a lasting impact in the lives of others through developing meaningful relationships with them.
 
-¶ When I was 13, my family moved from the U.S. to Brazil to volunteer at New Horizons Youth Ranch - a program for children in need. I became a staff member & lived there for over 10 years. My time there impacted my life more than any experience I've had since. It changed the way I view the world & no matter where I go or what I do, I carry the example of compassion, service & family the Ranch was & is to so many children very close to my heart.
+¶ When I was 13, my family moved from the U.S. to Brazil to volunteer at New Horizons Youth Ranch - a program for children in need. I became a staff member & lived there for over 10 years. My time there changed the way I view the world & is still very dear to my heart.
