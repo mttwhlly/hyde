@@ -6,7 +6,7 @@ category:
 img: http://mttwhlly.github.io/louie/assets/images/allmap.png
 ---
 
-<span class="intro__p" markdown="1">Broward Cultural Division's site needed a revitalization after 35+ years & 200+ pages of information added & added without evaluating the site from the standpoint of and end user. The site receives over 25,000 views per month but had an extremely high bounce rate & the infrastructure hadn't been reorganized with end users in mind in the 35+ years it has been active. I was told this type of an evaluation & redesign had never been attempted before. The project scope involved analyzing, organizing, simplifying & optimizing the very convoluted site and establishing a unifying style guide to enable brand consistency moving forward.</span>
+<span class="intro__p" markdown="1">Broward Cultural Division's site needed a revitalization after 35+ years & 200+ pages of information added without evaluating the site from a user's standpoint. The site received over 25,000 views per month but had an extremely high bounce rate. This type of an evaluation & redesign had never been attempted before. The project scope involved analyzing, organizing, simplifying & optimizing the very convoluted site and establishing a unifying style guide to enable brand consistency moving forward.</span>
 
 [View the full User Experience document PDF ›](http://mttwhlly.github.io/louie/assets/docs/cdux.pdf)
 
