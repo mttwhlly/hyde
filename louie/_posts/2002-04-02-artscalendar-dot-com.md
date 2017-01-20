@@ -12,7 +12,7 @@ img: http://mttwhlly.github.io/louie/assets/images/artscal-glamour.png
 
 ### BACKGROUND  
 <span class="intro__p" markdown="1">
-[ArtsCalendar.com](http://ArtsCalendar.com) has been promoting arts & cultural events in South Florida since ____. It is a highly trafficked website that receives a steady flow of event submissions from active users who range from individual artists or small galleries to renowned performing arts venues & internationally acclaimed festivals. </span> 
+[ArtsCalendar.com](http://ArtsCalendar.com) is an established South Florida arts & cultural events site. It is highly trafficked & receives a steady flow of event submissions from active users who range from individual artists or small galleries to renowned performing arts venues & internationally acclaimed festivals. </span> 
 
 ¶ Over the years, pages & features were added to the site by those maintaining it without much thought into whether it was beneficial (or even necessary) for the users. If the site were a house it may be a candidate for the show *Hoarders* - it was time for an intervention because of love for the valuable site hidden underneath all of the unintentional [dark UI](http://darkpatterns.org/), inconsistent styles & confusing redundancies. 
 
