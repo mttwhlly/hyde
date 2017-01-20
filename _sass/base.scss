@@ -157,7 +157,7 @@ body {
   letter-spacing: -.75px;
   color: $color__gray;
   /* multiple bg images */
-  background-image: url(../assets/images/ruler.png), url(../assets/images/bg-dots.png);
+  background-image: url(../assets/images/ruler.svg), url(../assets/images/bg-dots.png);
   background-repeat: no-repeat, repeat;
   //background-attachment: fixed;
 }
