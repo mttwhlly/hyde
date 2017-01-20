@@ -136,14 +136,18 @@ img: http://mttwhlly.github.io/louie/assets/images/allmap.png
 ¶ An important side note I'd like to make is that a lot of the work I was able to do on this project was due to the excellent documentation [18F](https://18f.gsa.gov/) has published & open-sourced on their work for the [U.S. Web Design Standards](https://18f.gsa.gov/2015/09/28/web-design-standards/). If you happen to be working on a government-related web project, I cannont recommend exploring their resources. They know what they are doing & you can learn a lot.
 
 #### RELATED PROJECTS
+
 ##### Logo Redesign
+
 <div class="column green" markdown="1">
 ![Broward Arts Logo](http://mttwhlly.github.io/louie/assets/images/arts-logo2.png)
 </div>
 <div class="column green" markdown="1">
 ![Broward Arts Logo](http://mttwhlly.github.io/louie/assets/images/arts-logo.png)
 </div>
+
 ##### Custom Typeface
+
 <div class="column green" markdown="1">
 ![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/font.png)
 </div>
