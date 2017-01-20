@@ -68,7 +68,7 @@ $maison:            'maison_neuelight', 'Inconsolata', monospace;
 $camcorder:         'camcorder_inv', 'Inconsolata', monospace;
 $camcorder2:        'camcorder_reg', 'Inconsolata', monospace;
 $inconsolata:       'Inconsolata', monospace;
-$font__size:        13px;
+$font__size:        17px;
 //$font__weight:      400;
 $font__line-height: 1.5;
 
@@ -110,13 +110,15 @@ a {
   // width: 100%;
   // height: 100%;
   font-family: $camcorder2;
-  color: $color__green;
-  font-size: $font__size * 1.5;
+  color: $color__gray;
+  font-size: $font__size;
   text-decoration: none;
   letter-spacing: 1px;
+  //text-shadow: 0 0 2px rgba(0,0,0,0.8);
 
   &:hover {
     font-family: $camcorder;
+    border-bottom: 1px solid $color__green;
   }
   /*
   [data-url]::after {
@@ -131,6 +133,11 @@ a {
   }*/
 }
 
+.larger_a {
+      font-size: $font__size * 1.5;
+}
+
+
 // layout
 html {
   overflow-x: hidden;
@@ -141,9 +148,9 @@ body {
   width: 100%;
   margin: 25px 0;
   padding: 0;
-  background: $color__mint;
+  //background: $color__mint;
   font-family: $maison;
-  font-size: $font__size * 1.5;
+  font-size: $font__size;
   //font-weight: $font__weight;
   line-height: $font__line-height;
   //text-shadow: 0 0 1.5px rgba(0,255,50,0.5);
@@ -157,6 +164,10 @@ body {
 
 b {
     font-family: maison_neuebold, helvetica, arial, sans-serif;
+}
+
+h2 {
+    font-size: 1em;
 }
 
 .container {

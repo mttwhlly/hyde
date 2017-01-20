@@ -142,7 +142,7 @@
   };
 
   $.okshadow.options = { 
-    color: 'rgba(0, 255, 55, 0.2)',
+    color: 'rgba(0, 0, 0, 0.1)',
     fuzz: 10,
     fuzzMin: 0,
     fuzzMax: 30,

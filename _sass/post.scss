@@ -3,7 +3,7 @@
 //.green{
   //background-color: #fff;
 //}-->
-.green img{
+/*.green img{
    mix-blend-mode: multiply;
   -webkit-filter: grayscale(100%) contrast(1.2);
   filter: grayscale(100%) contrast(1);
@@ -31,6 +31,7 @@
   transition: all ease-in-out .5s;
 }
 /* Color Overlay position */
+/*
 .column::after{
     content: '';
     position: absolute;
@@ -40,14 +41,16 @@
     left: 0;
     transition: all ease-in-out .5s;
 }
+
 /* Removed effects to show original on hover */
+/*
 .column:hover::after, .column:hover, .column:hover img{
   filter: none;
   -webkit-filter: none;
   mix-blend-mode: unset !important;
   background: transparent;
 }
-
+*/
 
 .intro__p {
     //margin-top: 100px;
@@ -56,7 +59,7 @@
     //padding: 4px;
         font-family: "freight-text-pro", serif;
     font-style: italic;
-    font-size: $font__size * 2;
+    font-size: $font__size * 1.5;
 }
 ol {
     list-style-type: decimal-leading-zero;
