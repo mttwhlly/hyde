@@ -109,7 +109,7 @@ img: http://localhost:4000/louie/assets/images/allmap.png
 
 #### Wireframing
 
-¶ Due to this site being a subsite of the local government, there are some serious constraints in place. I couldn't just "have at it" creatively. The site is built on the Sharepoint platform & a header, footer & page wrapper were predefined & outside of my control. Everything within the body of the page was HTML-based & could be styled. I wireframed the responsive site that was to be launched a year later to give the department I was working with an idea of what we could do. Having done that sold them on the case for a living style guide to ensure brand consistency & the abilit to update styles at a sitewide level rather than editing the pages individually.
+¶ Due to this site being a subsite of the local government, there are some serious constraints in place. I couldn't just "have at it" creatively. The site is built on the Sharepoint platform & a header, footer & page wrapper were predefined & outside of my control. Everything within the body of the page was HTML-based & could be styled. I wireframed the responsive site that was to be launched a year later to give the department I was working with an idea of what we could do. Having done that sold them on the case for a living style guide to ensure brand consistency & the ability to update styles at a sitewide level rather than editing the pages individually.
 
 <div class="column green" markdown="1">
 ![Component Library](http://localhost:4000/louie/assets/images/wire-mobile.png)
