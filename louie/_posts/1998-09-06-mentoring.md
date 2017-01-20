@@ -3,7 +3,7 @@ layout: post
 title:  YOUTH MENTORING & DESIGN LESSONS
 author: Matt Whalley
 category: 
-img: {{ site.url }}/louie/assets/images/workshop.png
+img: {{ base.url }}/assets/images/workshop.png
 ---
 
 <div class="column green" markdown="1">
