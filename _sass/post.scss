@@ -122,8 +122,9 @@ $paginate-padding: 13px;
   @extend .row__title;
   font-family: $maisoni;
   width: 100%;
-  font-size: $font__size * 2.5;
+  font-size: $font__size * 2.25;
   letter-spacing: -1px;
+  line-height: $font__size * 2.8;
 }
 .okshadow {
   
