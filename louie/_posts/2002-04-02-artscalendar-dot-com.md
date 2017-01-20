@@ -78,7 +78,7 @@ img: http://mttwhlly.github.io/louie/assets/images/artscal-glamour.png
 
 #### Interface design & CSS style guides
 
-¶ The stakeholders ultimately chose to go with a WordPress-based app/site. In order to assure the final product would be as close as possible to agreed upon mockups, I wrote CSS for the visual styles that we wished to see used consistently such as the typography & color palette as well as creating a new brand look including an updated logo & relevant iconography. Testing for the CSS was done using [Codepen](http://codepen.io).
+¶ The stakeholders ultimately chose to go with a WordPress-based app/site. In order to assure the final product would be as close as possible to agreed upon mockups, I wrote custom CSS for the visual styles. Testing of the CSS was done using [Codepen](http://codepen.io).
 
 ##### Typography
 ¶ When it came to the artscalendar.com project, selecting a typeface was particularly enjoyable as it afforded me the opportunity to survey the market & relevant fonts our target demographics would readily associate with arts & then to find something within those constraints that would communicate the voice we wanted artscalendar.com to have. Our final choice for the web was [Karla](https://fonts.google.com/specimen/Karla), a font designed by Jonny Pinhorn for Google. 
