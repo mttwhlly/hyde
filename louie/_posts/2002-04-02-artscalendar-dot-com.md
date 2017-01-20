@@ -34,13 +34,13 @@ img: http://mttwhlly.github.io/louie/assets/images/artscal-glamour.png
 ![Glamour shot](http://mttwhlly.github.io/louie/assets/images/fruio-before.png)
 </div>
 
-¶ I evaluated the user experience of each page, taking note especially of pain points in user journeys. I spoke with several users to get more insight into problems I may overlook. The notes were consolidated into a report (the report was created using Matt D. Smith's [AIUX](https://rwd.aiux.co/) method which I cannot recommend highly enough if you're into UX design) that I presented along with existing & revised sitemaps & low fidelity wireframes based on these findings. The objective at this stage was to take a high level view & begin setting a solid architectural structure in place that would get things in good place for all future discussions on form & function that would best accomplish the goals of the site. We had numerous meetings to refine this broad vision & to condense it down into what we felt comfortable was all we needed initially to deliver a great experience to our audience.
+¶ I evaluated the user experience of each page, taking note especially of pain points in user journeys. I spoke with several users to get more insight into problems I may have overlooked. The notes were consolidated into a report (the report was created using Matt D. Smith's [AIUX](https://rwd.aiux.co/) method which I cannot recommend highly enough if you're into UX design) that I presented along with existing & revised sitemaps & low fidelity wireframes based on these findings. The objective at this stage was to take a high level view & begin setting a solid architectural structure in place. This would set the foundation for all future discussions on form & function that would best accomplish the goals of the site. We had numerous meetings to refine this broad vision & to condense it down into what we felt comfortable was all we needed initially to deliver a great experience to our audience.
 
 ### ORGANIZING & PLANNING
 
 #### Sitemapping & User Flows
 
-¶ Creating user profiles, sitemaps & flows that would help them get from their point A to point B in as delightful of a way as possible is one of my favorite parts of the job. A lot of consideration was also taken at this stage to research the national & international market for others providing similar services we were looking to find what they were doing well & what we might be able to improve upon with our project. Many meetings, revisions & thoughtful discussions were had at this stage.
+¶ Creating user profiles, sitemaps & flows that would help them get from their point A to point B in as delightful of a way as possible is one of my favorite parts of the job. A lot of consideration was also taken at this stage to research the national & international market for others providing similar services. We looked to find what was done well and on what we could improve through our project. Many meetings, revisions & thoughtful discussions were had at this stage.
 
 <small>Optimized sitemap</small>
 <div class="column green" markdown="1">
