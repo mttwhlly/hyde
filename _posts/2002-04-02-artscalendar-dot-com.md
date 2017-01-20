@@ -2,7 +2,7 @@
 layout: post
 title:  USER-FOCUSED EVENT SITE REDESIGN
 author: Matt Whalley
-category: UX, UI, branding
+category: 
 img: http://localhost:4000/louie/assets/images/artscal-glamour.png
 ---
 

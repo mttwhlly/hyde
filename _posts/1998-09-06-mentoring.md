@@ -2,7 +2,7 @@
 layout: post
 title:  YOUTH MENTORING & DESIGN LESSONS
 author: Matt Whalley
-category: Mentoring
+category: 
 img: http://localhost:4000/louie/assets/images/workshop.png
 ---
 

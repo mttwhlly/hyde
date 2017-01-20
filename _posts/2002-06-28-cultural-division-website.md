@@ -2,7 +2,7 @@
 layout: post
 title:  OPTIMIZED GOVERNMENT WEB EXPERIENCE
 author: Matt Whalley
-category: UX, UI, Frontend
+category: 
 img: http://localhost:4000/louie/assets/images/allmap.png
 ---
 

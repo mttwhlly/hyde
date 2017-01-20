@@ -2,7 +2,7 @@
 layout: post
 title:  A FEW GOOD ILLUSTRATED MUGS
 author: Matt Whalley
-category: afewgoodmugs.bigcartel.com
+category: 
 img: http://localhost:4000/louie/assets/images/afgm.png
 ---
 

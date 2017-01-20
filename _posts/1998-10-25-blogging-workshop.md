@@ -2,7 +2,7 @@
 layout: post
 title:  TECHNICAL WORKSHOP FOR BLOGGERS
 author: Matt Whalley
-category: Workshop
+category: 
 img: http://localhost:4000/louie/assets/images/blogging.png
 ---
 

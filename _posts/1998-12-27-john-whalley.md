@@ -2,7 +2,7 @@
 layout: post
 title:  RESPONSIVE ARTIST PORTFOLIO SITE
 author: Matt Whalley
-category: UX, UI, Development
+category: 
 img: http://localhost:4000/louie/assets/images/jw-logo.png
 ---
 
