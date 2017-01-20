@@ -3,12 +3,12 @@ layout: post
 title:  OPTIMIZED GOVERNMENT WEB EXPERIENCE
 author: Matt Whalley
 category: 
-img: http://localhost:4000/louie/assets/images/allmap.png
+img: http://mttwhlly.github.io/louie/assets/images/allmap.png
 ---
 
 <span class="intro__p" markdown="1">Broward Cultural Division's site needed a revitalization after 35+ years & 200+ pages of information added & added without evaluating the site from the standpoint of and end user. The site receives over 25,000 views per month but had an extremely high bounce rate & the infrastructure hadn't been reorganized with end users in mind in the 35+ years it has been active. I was told this type of an evaluation & redesign had never been attempted before. The project scope involved analyzing, organizing, simplifying & optimizing the very convoluted site and establishing a unifying style guide to enable brand consistency moving forward.</span>
 
-[View the full User Experience document PDF ›](http://localhost:4000/louie/assets/docs/cdux.pdf)
+[View the full User Experience document PDF ›](http://mttwhlly.github.io/louie/assets/docs/cdux.pdf)
 
 [View active component library ›](http://broward-arts-component-library.s3-website-us-east-1.amazonaws.com/)
 
@@ -19,7 +19,7 @@ img: http://localhost:4000/louie/assets/images/allmap.png
 ¶ After speaking with all department leaders (and a number of workers as well) to get a clear picture of the goals of the division, I performed a basic heuristic evaluation of the pages on both desktop & mobile to clarify pain points would need attending to.
 
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/cd-heur.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/cd-heur.png)
 </div>
 
 ### ORGANIZING & PLANNING   
@@ -30,64 +30,64 @@ img: http://localhost:4000/louie/assets/images/allmap.png
 
 <small>Existing Sitemap:</small>
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/cd-sitemap.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/cd-sitemap.png)
 </div>
 
 <!--
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/oldsite1.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/oldsite1.png)
 </div>
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/oldsite2.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/oldsite2.png)
 </div>
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/oldsite3.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/oldsite3.png)
 </div>
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/oldsite4.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/oldsite4.png)
 </div>
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/oldsite5.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/oldsite5.png)
 </div>
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/oldsite6.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/oldsite6.png)
 </div>
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/oldsite7.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/oldsite7.png)
 </div>
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/oldsite8.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/oldsite8.png)
 </div>
 -->
 
 <small>Optimized Sitemap:</small>
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/cd-sitemap2.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/cd-sitemap2.png)
 </div>
 <!--
 <div class="column green" markdown="1">
-![Revised Sitemap](http://localhost:4000/louie/assets/images/newsite1.png)
+![Revised Sitemap](http://mttwhlly.github.io/louie/assets/images/newsite1.png)
 </div>
 <div class="column green" markdown="1">
-![Revised Sitemap](http://localhost:4000/louie/assets/images/newsite2.png)
+![Revised Sitemap](http://mttwhlly.github.io/louie/assets/images/newsite2.png)
 </div>
 <div class="column green" markdown="1">
-![Revised Sitemap](http://localhost:4000/louie/assets/images/newsite3.png)
+![Revised Sitemap](http://mttwhlly.github.io/louie/assets/images/newsite3.png)
 </div>
 <div class="column green" markdown="1">
-![Revised Sitemap](http://localhost:4000/louie/assets/images/newsite4.png)
+![Revised Sitemap](http://mttwhlly.github.io/louie/assets/images/newsite4.png)
 </div>
 <div class="column green" markdown="1">
-![Revised Sitemap](http://localhost:4000/louie/assets/images/newsite5.png)
+![Revised Sitemap](http://mttwhlly.github.io/louie/assets/images/newsite5.png)
 </div>
 <div class="column green" markdown="1">
-![Revised Sitemap](http://localhost:4000/louie/assets/images/newsite6.png)
+![Revised Sitemap](http://mttwhlly.github.io/louie/assets/images/newsite6.png)
 </div>
 <div class="column green" markdown="1">
-![Revised Sitemap](http://localhost:4000/louie/assets/images/newsite7.png)
+![Revised Sitemap](http://mttwhlly.github.io/louie/assets/images/newsite7.png)
 </div>
 <div class="column green" markdown="1">
-![Revised Sitemap](http://localhost:4000/louie/assets/images/newsite8.png)
+![Revised Sitemap](http://mttwhlly.github.io/louie/assets/images/newsite8.png)
 </div>
 -->
 
@@ -98,7 +98,7 @@ img: http://localhost:4000/louie/assets/images/allmap.png
 <small>User flow for Grants & Funding Department:</small>
 
 <div class="column green" markdown="1">
-![Grants User Flow](http://localhost:4000/louie/assets/images/grants-flow.png)
+![Grants User Flow](http://mttwhlly.github.io/louie/assets/images/grants-flow.png)
 </div>
 
 #### Market Research
@@ -112,13 +112,13 @@ img: http://localhost:4000/louie/assets/images/allmap.png
 ¶ Due to this site being a subsite of the local government, there are some serious constraints in place. I couldn't just "have at it" creatively. The site is built on the Sharepoint platform & a header, footer & page wrapper were predefined & outside of my control. Everything within the body of the page was HTML-based & could be styled. I wireframed the responsive site that was to be launched a year later to give the department I was working with an idea of what we could do. Having done that sold them on the case for a living style guide to ensure brand consistency & the ability to update styles at a sitewide level rather than editing the pages individually.
 
 <div class="column green" markdown="1">
-![Component Library](http://localhost:4000/louie/assets/images/wire-mobile.png)
+![Component Library](http://mttwhlly.github.io/louie/assets/images/wire-mobile.png)
 </div>
 <div class="column green" markdown="1">
-![Component Library](http://localhost:4000/louie/assets/images/wire-tablet.png)
+![Component Library](http://mttwhlly.github.io/louie/assets/images/wire-tablet.png)
 </div>
 <div class="column green" markdown="1">
-![Component Library](http://localhost:4000/louie/assets/images/wire-desktop.png)
+![Component Library](http://mttwhlly.github.io/louie/assets/images/wire-desktop.png)
 </div>
 
 #### Web Component Style Guide 
@@ -128,7 +128,7 @@ img: http://localhost:4000/louie/assets/images/allmap.png
 [View active component library ›](http://broward-arts-component-library.s3-website-us-east-1.amazonaws.com/)
 
 <div class="column green" markdown="1">
-![Component Library](http://localhost:4000/louie/assets/images/component-library.png)
+![Component Library](http://mttwhlly.github.io/louie/assets/images/component-library.png)
 </div>
 
 ¶ If you are interested in creating a style guide for yourself, some other notable options are [Pattern Lab](http://patternlab.io) & [Huge](https://hugeinc.github.io/styleguide/)'s style guide. I personally opted for Chime because it runs on Jekyll which I am more comfortable with than Pattern Labs which can run on PHP or Huge's which runs on NodeJS & Harp. 
@@ -138,12 +138,12 @@ img: http://localhost:4000/louie/assets/images/allmap.png
 #### RELATED PROJECTS
 ##### Logo Redesign
 <div class="column green" markdown="1">
-![Broward Arts Logo](http://localhost:4000/louie/assets/images/arts-logo2.png)
+![Broward Arts Logo](http://mttwhlly.github.io/louie/assets/images/arts-logo2.png)
 </div>
 <div class="column green" markdown="1">
-![Broward Arts Logo](http://localhost:4000/louie/assets/images/arts-logo.png)
+![Broward Arts Logo](http://mttwhlly.github.io/louie/assets/images/arts-logo.png)
 </div>
 ##### Custom Typeface
 <div class="column green" markdown="1">
-![Heuristic Eval](http://localhost:4000/louie/assets/images/font.png)
+![Heuristic Eval](http://mttwhlly.github.io/louie/assets/images/font.png)
 </div>

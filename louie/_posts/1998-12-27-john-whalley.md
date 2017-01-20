@@ -3,11 +3,11 @@ layout: post
 title:  RESPONSIVE ARTIST PORTFOLIO SITE
 author: Matt Whalley
 category: 
-img: http://localhost:4000/louie/assets/images/jw-logo.png
+img: http://mttwhlly.github.io/louie/assets/images/jw-logo.png
 ---
 
 <div class="column green" markdown="1">
-![Glamour shot](http://localhost:4000/louie/assets/images/etudes.png)
+![Glamour shot](http://mttwhlly.github.io/louie/assets/images/etudes.png)
 </div>
 
 <span class="intro__p" markdown="1">I was asked to redesign the website for renowned American realist artist [John Whalley](http://johnwhalley.com) (who I have the honor of calling 'Dad'). Having previously built a site with the now unsupported iWeb, he needed a solution that would allow him to update on a regular basis & would be easily accessible to people interested in viewing from any device & (hopefully) buying his work. E-commerce functionality for purchasing prints, his books & potentially more products was a must. </span>

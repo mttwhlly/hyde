@@ -3,11 +3,11 @@ layout: post
 title:  USER-FOCUSED EVENT SITE REDESIGN
 author: Matt Whalley
 category: 
-img: http://localhost:4000/louie/assets/images/artscal-glamour.png
+img: http://mttwhlly.github.io/louie/assets/images/artscal-glamour.png
 ---
 
 <div class="column green" markdown="1">
-![Glamour shot](http://localhost:4000/louie/assets/images/artscal-glamour.png)
+![Glamour shot](http://mttwhlly.github.io/louie/assets/images/artscal-glamour.png)
 </div>
 
 ### BACKGROUND  
@@ -26,12 +26,12 @@ img: http://localhost:4000/louie/assets/images/artscal-glamour.png
 
 <small>Mobile & desktop versions of existing site</small>
 <div class="column green" markdown="1">
-![Glamour shot](http://localhost:4000/louie/assets/images/artscal-before.png)
+![Glamour shot](http://mttwhlly.github.io/louie/assets/images/artscal-before.png)
 </div>
 
 <small>Mobile app for video sharing before redesign</small>
 <div class="column green" markdown="1">
-![Glamour shot](http://localhost:4000/louie/assets/images/fruio-before.png)
+![Glamour shot](http://mttwhlly.github.io/louie/assets/images/fruio-before.png)
 </div>
 
 ¶ I evaluated the user experience of each page, taking note especially of pain points in user journeys. I spoke with several users to get more insight into problems I may overlook. The notes were consolidated into a report (the report was created using Matt D. Smith's [AIUX](https://rwd.aiux.co/) method which I cannot recommend highly enough if you're into UX design) that I presented along with existing & revised sitemaps & low fidelity wireframes based on these findings. The objective at this stage was to take a high level view & begin setting a solid architectural structure in place that would get things in good place for all future discussions on form & function that would best accomplish the goals of the site. We had numerous meetings to refine this broad vision & to condense it down into what we felt comfortable was all we needed initially to deliver a great experience to our audience.
@@ -44,15 +44,15 @@ img: http://localhost:4000/louie/assets/images/artscal-glamour.png
 
 <small>Optimized sitemap</small>
 <div class="column green" markdown="1">
-![Sitemap](http://localhost:4000/louie/assets/images/artscal-sitemap1.png)
+![Sitemap](http://mttwhlly.github.io/louie/assets/images/artscal-sitemap1.png)
 </div>
 <small>User flow (for member)</small>
 <div class="column green" markdown="1">
-![Sitemap](http://localhost:4000/louie/assets/images/artscal-flow1.png)
+![Sitemap](http://mttwhlly.github.io/louie/assets/images/artscal-flow1.png)
 </div>
 <small>User flow (for guest)</small>
 <div class="column green" markdown="1">
-![Sitemap](http://localhost:4000/louie/assets/images/artscal-flow2.png)
+![Sitemap](http://mttwhlly.github.io/louie/assets/images/artscal-flow2.png)
 </div>
 
 #### Wireframing
@@ -61,15 +61,15 @@ img: http://localhost:4000/louie/assets/images/artscal-glamour.png
 
 <small>Event app wireframes</small>
 <div class="column green" markdown="1">
-![Sitemap](http://localhost:4000/louie/assets/images/artscal-wire1.png)
+![Sitemap](http://mttwhlly.github.io/louie/assets/images/artscal-wire1.png)
 </div>
 <small>Video app wireframes</small>
 <div class="column green" markdown="1">
-![Sitemap](http://localhost:4000/louie/assets/images/artscal-wire2.png)
+![Sitemap](http://mttwhlly.github.io/louie/assets/images/artscal-wire2.png)
 </div>
 <small>Prototype screens in Sketch</small>
 <div class="column green" markdown="1">
-![Sitemap](http://localhost:4000/louie/assets/images/prototype1.png)
+![Sitemap](http://mttwhlly.github.io/louie/assets/images/prototype1.png)
 </div>
 
 #### Prototyping
@@ -84,7 +84,7 @@ img: http://localhost:4000/louie/assets/images/artscal-glamour.png
 ¶ When it came to the artscalendar.com project, selecting a typeface was particularly enjoyable as it afforded me the opportunity to survey the market & relevant fonts our target demographics would readily associate with arts & then to find something within those constraints that would communicate the voice we wanted artscalendar.com to have. Our final choice for the web was [Karla](https://fonts.google.com/specimen/Karla), a font designed by Jonny Pinhorn for Google. 
 
 <div class="column green" markdown="1">
-![Karla](http://localhost:4000/louie/assets/images/karla.png)
+![Karla](http://mttwhlly.github.io/louie/assets/images/karla.png)
 </div>
 
 ¶ The logic behind this decision began by narrowing our options down to grotesque sans-serifs - widely used in the arts community & neutral enough to allow the content to be front & center. This provided us with a lot of amazing options to explore but for practicality reasons, self-served webfonts & subscription-based services were ruled out to avoid a lapse were administration to change leaving the best option to go with Google fonts. Out of the fonts Google offers, Karla struck a good balance between having a pleasant personality & being sturdy & somewhat impartial in the grotesque tradition. 

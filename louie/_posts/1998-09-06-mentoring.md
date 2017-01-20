@@ -3,11 +3,11 @@ layout: post
 title:  YOUTH MENTORING & DESIGN LESSONS
 author: Matt Whalley
 category: 
-img: {{site.url}}/louie/assets/images/workshop.png
+img: http://mttwhlly.github.io/louie/assets/images/workshop.png
 ---
 
 <div class="column green" markdown="1">
-![Lettters.com](http://localhost:4000/louie/assets/images/studio.jpg)
+![Lettters.com](http://mttwhlly.github.io/louie/assets/images/studio.jpg)
 </div>
 
 <span class="intro__p" markdown="1">“I am not a teacher, but an awakener.” 

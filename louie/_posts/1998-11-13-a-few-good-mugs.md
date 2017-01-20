@@ -3,11 +3,11 @@ layout: post
 title:  A FEW GOOD ILLUSTRATED MUGS
 author: Matt Whalley
 category: 
-img: http://localhost:4000/louie/assets/images/afgm.png
+img: http://mttwhlly.github.io/louie/assets/images/afgm.png
 ---
 
 <div class="column green" markdown="1">
-![Lettters.com](http://localhost:4000/louie/assets/images/mug.png)
+![Lettters.com](http://mttwhlly.github.io/louie/assets/images/mug.png)
 </div>
 
 <span class="intro__p" markdown="1">[A few good mugs](http://afewgoodmugs.bigcartel.com) is a little online store that sells..well..a few good mugs.</span>
