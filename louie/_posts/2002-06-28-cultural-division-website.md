@@ -26,7 +26,7 @@ img: http://mttwhlly.github.io/louie/assets/images/allmap.png
 
 #### Sitemapping
 
-¶ Due to the sheer size of this site, the sitemapping process was tackled as soon as possible. I broke this task into sections & went created what seemed to me to be viable solutions that I then presented to the department leaders for each section. This led to revisions and, in most cases, follow-up meetings to verify the maps were correct. As I've mentioned elsewhere, the sitemapping, user flow & wireframing is done using the [AIUX](https://rwd.aiux.co/) technique which if you are at all inclined toward UX design, I highly recommend looking into.
+¶ Due to the sheer size of this site, the sitemapping process was tackled as soon as possible. I broke this task into sections, creating what seemed to me to be viable solutions that I then presented to the department leaders for discussion & feedback. This led to several rounds of revisions and, in most cases, follow-up meetings to verify the maps were correct. As I've mentioned elsewhere, the sitemapping, user flow & wireframing is done using the [AIUX](https://rwd.aiux.co/) technique which if you are at all inclined toward UX design, I highly recommend looking into.
 
 <small>Existing Sitemap:</small>
 <div class="column green" markdown="1">
