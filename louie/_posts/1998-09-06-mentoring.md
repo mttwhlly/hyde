@@ -6,7 +6,7 @@ category:
 img: http://mttwhlly.github.io/louie/assets/images/workshop.png
 ---
 
-<div class="column green" markdown="1">
+<div class="column gree img-responsive" markdown="1">
 ![Lettters.com](http://mttwhlly.github.io/louie/assets/images/studio.jpg)
 </div>
 
