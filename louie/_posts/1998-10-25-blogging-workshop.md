@@ -21,7 +21,7 @@ Got questions? &nbsp;[Email me ›](mailto:matt@mattwhalley.com)
 4. Publishing
 5. Sharing   
 
-But first, a quick look at a mindset that can cripple you called the zero-sum mentality. Brad Weaver in his book Creative Truth argues
+<!--But first, a quick look at a mindset that can cripple you called the zero-sum mentality. Brad Weaver in his book Creative Truth argues-->
 
 ### 01. Getting the right domain name   
 
