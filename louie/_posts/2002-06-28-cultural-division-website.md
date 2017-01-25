@@ -133,7 +133,7 @@ img: http://mttwhlly.github.io/louie/assets/images/allmap.png
 
 ¶ If you are interested in creating a style guide for yourself, some other notable options are [Pattern Lab](http://patternlab.io) & [Huge](https://hugeinc.github.io/styleguide/)'s style guide. I personally opted for Chime because it runs on Jekyll which I am more comfortable with than Pattern Labs which can run on PHP or Huge's which runs on NodeJS & Harp. 
 
-¶ An important side note I'd like to make is that a lot of the work I was able to do on this project was due to the excellent documentation [18F](https://18f.gsa.gov/) has published & open-sourced on their work for the [U.S. Web Design Standards](https://18f.gsa.gov/2015/09/28/web-design-standards/). If you happen to be working on a government-related web project, I cannont recommend exploring their resources. They know what they are doing & you can learn a lot.
+¶ An important side note I'd like to make is that a lot of the work I was able to do on this project was due to the excellent documentation [18F](https://18f.gsa.gov/) has published & open-sourced on their work for the [U.S. Web Design Standards](https://18f.gsa.gov/2015/09/28/web-design-standards/). If you happen to be working on a government-related web project, I cannot recommend exploring their resources. They know what they are doing & you can learn a lot.
 
 #### RELATED PROJECTS
 
