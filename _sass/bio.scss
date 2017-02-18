@@ -43,6 +43,28 @@
 
 }
 
+.work__images {
+    width: 100%;
+    a {
+        font-family: $maison, sans-serif;
+    }
+}
+.work__img {
+    min-height: 200px;
+    min-width: 300px;
+    margin: 50px 0 0 0;
+    cursor: pointer;
+}
+.left {
+    position: relative;
+    right: calc(100%/3);
+}
+
+.right {
+    position: relative;
+    left: calc(100%/3);
+}
+
 // media queries
 
 @include media-query($on-palm) {
