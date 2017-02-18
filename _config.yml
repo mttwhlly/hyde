@@ -3,7 +3,7 @@ title: Matt Whalley ╱ UX Designer
 baseurl: ""
 url: "http://mttwhlly.github.io"
 favicon: "/assets/sample/ico.png"
-g_analytics: UA-12345678-1
+g_analytics: UA-92188191-1
 
 # bio
 header: Matt Whalley ╱ UX Designer
@@ -18,7 +18,7 @@ post_date: CLIENT
 post_cat: DISCIPLINE
 
 # post detail
-prev-next: true
+prev-next: false
 
 # build settings
 markdown: kramdown
