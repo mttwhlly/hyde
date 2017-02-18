@@ -6,6 +6,10 @@ category:
 img: http://mttwhlly.github.io/louie/assets/images/allmap.png
 ---
 
+<div class="column green" markdown="1">
+![Glamour shot](http://mttwhlly.github.io/louie/assets/images/ux-mockup-cropped.png)
+</div>
+
 <span class="intro__p" markdown="1">Broward Cultural Division's site needed a revitalization after 35+ years & 200+ pages of information added without evaluating the site from a user's standpoint. The site received over 25,000 views per month but had an extremely high bounce rate. This type of an evaluation & redesign had never been attempted before. The project scope involved analyzing, organizing, simplifying & optimizing the very convoluted site and establishing a unifying style guide to enable brand consistency moving forward.</span>
 
 [View the full User Experience document PDF ›](http://mttwhlly.github.io/louie/assets/docs/cdux.pdf)
